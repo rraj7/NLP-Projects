@@ -1,0 +1,73 @@
+[
+    {"id": "1", "date_time": "2020-04-10 09:00:00", "user":"Bill", 
+    "message_text":	"April 10: Tasted Metallic taste in the morning  Slight headache, slight temperature.  Developed into a horrible headache all night long. Started with strong burning pain in left sinus – something I had never felt before, never that intense. I did neddie pot and then the pain moved to the entire head. An odd feeling headache that wrapped all around the outside – all night long. Again, it was a different feeling headache than I had experienced before.",
+    "target_class": 3},
+
+    {"id": "2", "date_time": "2020-04-11 09:00:00", "user":"Bill", 
+    "message_text":	"April 11: Some difficulty breathing but not much. Climbed 10 flights of stairs instead of elevator.  Slight headache with slight temperature (ear thermometer registers temp at 97.1. Temp went up to 97.5 to 98.0. I imagine there is a great margin of error with this thing.",    
+    "target_class": 2},    
+
+    {"id": "3", "date_time": "2020-04-12 09:00:00", "user":"Bill", 
+    "message_text":	"April 12: Sunday: Some difficulty breathing but not much. Climbed stairs instead of elevator. Slight headache with slight temperature. Temp went up to 97.5 to 98.1.",
+    "target_class": 2},
+
+    {"id": "4", "date_time": "2020-04-13 09:00:00", "user":"Bill", 
+    "message_text":	"April 13: Monday: Great anxiety during the night due to computer being hacked. 1 night sweat (I think it was this night).  Great breathing problems all night and all day. Struggled.",
+    "target_class": 2},
+
+    {"id": "5", "date_time": "2020-04-14 09:00:00", "user":"Bill", 
+    "message_text": "April 14:  Tuesday: Great breathing problems again. Took Uber (windows open) to Northwestern Medical in Streeterville. The triage “tent” per Nurse Carla’s advice – from Dr. Allison Cromwell’s office. After Northwestern, picked up inhaler from Walgreens on granville and broadway. Took Zyrtec around 5 pm.  Breathing eased around 10 pm. Inhaler wasn’t working well",	
+    "target_class": 1},
+
+    {"id": "6", "date_time": "2020-04-14 09:00:00", "user":"Bill", 
+    "message_text":	"April 14:  Tuesday: Great breathing problems again. Took Uber (windows open) to Northwestern Medical in Streeterville. The triage “tent” per Nurse Carla’s advice – from Dr. Allison Cromwell’s office. After Northwestern, picked up inhaler from Walgreens on granville and broadway. Took Zyrtec around 5 pm.  Breathing eased around 10 pm. Inhaler wasn’t working well",		
+    "target_class": 2},
+
+    {"id": "7", "date_time": "2020-04-15 09:00:00", "user":"Bill", 
+    "message_text": "April 15:  Wednesday: Took a puff of inhaler around. Took Zyrtec at 8 pm. Got enough sleep with some difficulty breathing during the night and day. Difficulty breathing still during the day until I took a Zyrtec.",    	
+    "target_class": 2},
+
+    {"id": "8", "date_time": "2020-04-16 09:00:00", "user":"Bill", 
+    "message_text": "April 16: Thursday.  During the night, I sweat out twice.  2 t-shirts and 2 damp sweaters. I’m wearing sweaters to bed.   Slept soundly. No breathing problems. Felt a little lightheaded in the morning.  I felt a slight slight headache coming on late last night but it dissipated.",	
+    "target_class": 2},
+
+    {"id": "9", "date_time": "2020-04-17 09:00:00", "user":"Bill", 
+    "message_text": "April 17: Friday.  Night Slight difficulty breathing but only slight discomfort.  I didn’t feel like I was suffocating – surprising considering the circumstances of everything.  Too zyrtec and did inhaler.  Slept from about 1 am to 5 am. Some slight numbness in both of my big toes that I could shake off. No cough.  No fever. No headache. To my knowledge, no night sweats. This marks Day 7 of possible symptoms. Have a metallic taste in my mouth. 2 pm:  breathing problems started again.  Perhaps because of the cold air.  Did inhaler around 2 pm. 4 pm – a huge chunk of phlegm crept up out of my chest, deep center, without as much as a cough.  Called nurse at Northwestern. She thinks that is a good thing. Feeling much better as a result with my breathing. I was concerned that it might be a sign of pneumonia – but no.",	
+    "target_class": 2},
+
+    {"id": "10", "date_time": "2020-04-18 09:00:00", "user":"Bill", 
+    "message_text":	"April 18: Saturday Slept well. No issues. 1 big sweat as I recall – but drank several cups of hot water prior to bed.  Picked up Mucinex from Walgreens (face covered by mask and towel except when outside – stupidly talked on the phone wtihout my mask over my mouth but luckily it was windy and people were at least 10 feet from me). Came back.  Felt slight numbness in my left foot.  Felt metallic taste in my mouth again when drinking hot water.  Sharp metallic.  Drank several cups of water. Still feeling ok as of 11:45 am. Around 1 pm, the slight difficulty started in my breathing.  Took a shower. Took some Mucinex. Needie pottie.  Not as bad as other days but still uncomfortable. I don’t need to breathe as quickly as previous days to get air in my lungs. Plus the phlegm is liquid in the shower steam. Other days it wouldn’t even budge.  Smell /taste is fine.  Haven’t taken zyrtec since last night at 8 pm. Took a sharp turn for the worst around 2:30 pm due to stress.  I felt it return in the upper left, upper right and center.  I tightness I hadn’t felt for days. I couldn’t get my lungs to fill with a deep breath.  It’s as if I went back 2+ days. 3 pm Mucinex. 5:30 pm Zyrtec. 6 pm 2 puffs of inhaler. By 8 pm, the breathing had relaxed and back to more normal – though there is still tightness in the upper part.   It has returned there.  But I’m not having to take a breath every 2 seconds to get air into my lungs. It’s fairly normal – or more normal than it was. I’ll keep drinking water. Got bad again around 9 pm and was bad all night long. Took 2 more puffs of inhaler at 10:30 pm.",
+    "target_class": 2},
+
+    {"id": "11", "date_time": "2020-04-19 09:00:00", "user":"Bill", 
+    "message_text": "April 19: Sunday Day 10 Slept horribly Tough to get a breath.  2 hours sleep. Breathing is a little easier this morning around 7 am. Took Zyrtec at 8 am. My breathing eased immediately.   For the rest of the day.  And all night. The torture of the day and night before was gone.",	
+    "target_class": 2},
+
+    {"id": "12", "date_time": "2020-04-20 09:00:00", "user":"Bill", 
+    "message_text": "Monday 20, Day 11:  Slept easily all night long. Had a little sore throat this morning. Left big toe a little numb as I sit and type. Took Zyrtec by mistake around 7-8 am. Drank green tea which loosened up slightly but not enough to get the solidified congestion out of my lungs.  I still need to get the solidified congetsion out. Difficulty breathing around 6 pm. Lightheadness uneasy in the legs around 8 pm. Emergency room at 10 pm.",
+    "target_class": 2},
+
+    {"id": "13", "date_time": "2020-04-21 09:00:00", "user":"Bill", 
+    "message_text": "Tuesday April 21: Slept soundly after returning from ER at 2:30 am. Woke up around 8:30 am. Drank far less water. Ate Chinese food. Drank gatorade to get my sodium levels back up.  Feel good. Around 8 pm. A little sore throat in the back.  Throat/sinus. Might be the sugar from the chinese food. Or gluten. We’ll see.",
+    "target_class": 2},
+
+    {"id": "14", "date_time": "2020-04-22 09:00:00", "user":"Bill", 
+    "message_text": "Wednesday April 22. DAY 13!!! (Potentially – my antibody test may show negative and this whole thing might have been due too much water and too much vitamin C and too low Sodium. No problems breathing at all. No other symptoms. No sweats – nothing.  I got out and walked to Giordano’s up on Sheridan and Pratt maybe. I thought I might have problems after I ate oatmeal – a little bloated and breathing heavy but that quicky corrected itself.",  
+    "target_class": 3},
+
+    {"id": "15", "date_time": "2020-04-26 09:00:00", "user":"Bill", 
+    "message_text": "Sunday, April 26:  No breathing problems to speak of since Wednesday.  A little problems at the hotel in Schaumburg – the Marriott.  We walked through grass and the pollen was high.  Some benadryl took care of it.  Some slight “allergey” sore throat due to the pollen. But nothing like the symptoms of breathing I suffered for 10+ days. I hope I had the virus.", 		
+    "target_class": 3},
+
+    {"id": "16", "date_time": "2020-04-28 09:00:00", "user":"Bill", 
+    "message_text": "April 28 Tuesday: Got caught in heavy rain picking up Giordanos. Drenched all the way through. Night sweat – minor one. But breathing stil good.",
+    "target_class": 3},
+
+    {"id": "17", "date_time": "2020-04-29 09:00:00", "user":"Bill", 
+    "message_text": "April 29 Wednesday afternoon-night/Thursday morning, April 29-30. Breathing problems started again.",
+    "target_class": 3},
+
+    {"id": "18", "date_time": "2020-05-02 09:00:00", "user":"Bill", 
+    "message_text": "May 2, Saturday: Walked 6-8 miles.   Metallic tast in mouth around 4 pm. Breathing problems started around 8 pm.  All night long. Severe.  Slept from 4 am to 8 am.  Eased up in the morning.",		
+    "target_class": 3}
+]
